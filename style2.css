@@ -1,0 +1,63 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+.container{
+  width: 1200px;
+  height: 800px;
+  margin:auto;
+  background-color: rgb(0, 0, 0, 0.5);
+  border-radius: 1%
+}
+
+header{
+  text-align: center;
+}
+
+#logo{
+  width: 250px;
+  margin-top: 50px;
+}
+
+.logo-text{
+  margin-top: 5px;
+  color: rgb(0, 220, 0);
+}
+
+
+.button-container{
+  background-color: rgb(0, 220, 0);
+  width: 80%;
+  line-height: 40px;
+  text-align: center;
+  margin: auto;
+}
+
+main{
+  width: 80%;
+  margin: auto;
+  color: white;
+}
+h2{
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.barra {
+  height: 35px;
+  border-radius: 5px 5px 5px 5px;
+}
+.Gino22{
+  background-color:rgb(255,127,80);
+  width: 30%;
+}
+.Mike24{
+  background-color:rgb(0,220,0);
+  width: 70%;
+}
+.Fede154{
+  background-color:rgb(255, 99, 71);
+  width: 20%;
+}
